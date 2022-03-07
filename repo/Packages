@@ -1,4 +1,4 @@
-Package: com.chasefromm17.internalsettings10
+Package: com.yourepo.chasefromm17.internalsettings10
 Version: 2.4.4-1
 Section: Tweaks
 Maintainer: InternalSettingsTweak Project <uh4vel0st@gmail.com>
@@ -14,7 +14,7 @@ Depiction:
 
 
 
-Package: com.chasefromm17.internalsettings10substratevers
+Package: com.yourepo.chasefromm17.internalsettings10substratevers
 Version: 1.0
 Section: Tweaks
 Maintainer: InternalSettingsTweak Project <uh4vel0st@gmail.com>
