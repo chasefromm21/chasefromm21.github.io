@@ -1,12 +1,12 @@
 Package: com.yourepo.chasefromm17.internalsettings10
-Version: 2.4.4-1
+Version: 2.4.3-2
 Section: Tweaks
 Maintainer: InternalSettingsTweak Project <uh4vel0st@gmail.com>
 Depends: mobilesubstrate, autossh,
 Architecture: iphoneos-arm
 Filename: .//debs/com.chasefromm17.internalsettings10_2.4.4-1_iphoneos-arm.deb
-Size: 802074
-MD5sum: e84dbe398abd5940a3a549187ab55c85
+Size: 801924
+MD5sum: 78500d7d059f10635376b231068a747b
 Description: Enables hidden and interesting internal settings and features that are used by Apple internally for testing. Only for iOS 7, iOS 8, iOS 9 and iOS 10.
 Name: InternalSettings10
 Author: InternalSettingsTweak Project <uh4vel0st@gmail.com>
