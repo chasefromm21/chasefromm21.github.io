@@ -2,7 +2,7 @@ Package: com.chasefromm.is10
 Version: 2.4.3-2
 Section: Tweaks
 Maintainer: InternalSettingsTweak Project <uh4vel0st@gmail.com>
-Depends: mobilesubstrate, autossh,
+Depends: preferenceloader, autossh,
 Architecture: iphoneos-arm
 Filename: .//debs/com.chasefromm.is10_2.4.3-2_iphoneos-arm.deb
 Size: 801924
@@ -17,7 +17,7 @@ Package: com.yourepo.chasefromm17.internalsettings10substratevers
 Version: 1.0
 Section: Tweaks
 Maintainer: InternalSettingsTweak Project <uh4vel0st@gmail.com>
-Depends: mobilesubstrate, autossh,
+Depends: preferenceloader, autossh,
 Architecture: iphoneos-arm
 Filename: .//debs/com.chasefromm17.internalsettings10substrate_1.0_iphoneos-arm.deb
 Size: 419524
@@ -32,7 +32,7 @@ Package: com.yourepo.chasefromm17.internalsettings11
 Version: 2.0-3
 Section: Tweaks
 Maintainer: InternalSettingsTweak Project <uh4vel0st@gmail.com>
-Depends: mobilesubstrate, autossh, com.saurik.afc2d
+Depends: preferenceloader, autossh, com.saurik.afc2d
 Architecture: iphoneos-arm
 Filename: .//debs/com.yourepo.chasefromm17.internalsettings11_2.0-3_iphoneos-arm.deb
 Size: 571144
